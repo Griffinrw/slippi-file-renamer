@@ -4,7 +4,7 @@
 
 import random
 import os
-import slippi
+# import slippi
 from slippi import Game
 
 characters = ['falcon', 'doc', 'luigi', 'marth', 'mario', 'sheik', 'ganondorf', 'zelda', 'pikachu', 'pichu']
@@ -94,9 +94,9 @@ if __name__ == '__main__':
     # Calling main() function
     # main("C:\\Users\\talen\\Desktop\\testfolder")
     # get_info('C:\\Users\\talen\\Desktop\\testfolder\\realgame.slp')
-    directory = str(input('Please input the folder path that contains your slippi files you wish to rename'))
-    rename_slippi_files(directory)
+    #directory = str(input('Please input the folder path that contains your slippi files you wish to rename'))
+    #rename_slippi_files(directory)
 
-    #rename_slippi_files('C:\\Users\\talen\\Desktop\\testfolder')
+    rename_slippi_files('C:\\Users\\talen\\Desktop\\testfolder')
 
 
