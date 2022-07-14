@@ -2,6 +2,9 @@
 
 Easily renames Super Smash Bros Melee replay files.
 
+![slippi](https://user-images.githubusercontent.com/15940140/179071745-fe158e1c-7599-4dfd-a9c5-d3aba42f0e5c.png)
+
+
 ## Description
 
 Have a replay file from Super Smash Bros Melee but don't like the default file name?
